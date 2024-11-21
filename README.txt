@@ -1,6 +1,51 @@
-# **Data Analysis Projects Portfolio**
+# **Data Analysis Skills Portfolio**
 
-Welcome to my portfolio of data analysis projects! This collection demonstrates my learning and application of various **data analysis techniques and skills**. The primary goal of these projects is to showcase my technical abilities rather than business insights. Each project focuses on mastering a specific method, tool, or statistical approach.
+Welcome to my portfolio of data analysis projects! This repository contains a collection of projects that demonstrate my technical skills and techniques in data analysis using Python. Each project focuses on mastering specific methods, tools, or statistical approaches.
+
+Below, you will find a list of all projects included in this portfolio, along with links to their respective notebooks.
+
+---
+
+## **List of Projects**
+
+1. **[Foundational Concepts of Data Analysis](https://github.com/MeJI3a/Data-Analysis-Skills/blob/main/1.Foundational%20Concepts%20of%20Data%20Analysis.ipynb)**  
+   *Understanding the basics of data analysis by exploring descriptive statistics and fundamental concepts.*
+
+2. **[Statistical Concepts for Data Analysis](https://github.com/MeJI3a/Data-Analysis-Skills/blob/main/2.Statistical%20basic%20concepts%20for%20data%20analysis.ipynb)**  
+   *Building a strong foundation in statistical measures such as variance and standard deviation.*
+
+3. **[Measuring Covariance and Correlation](https://github.com/MeJI3a/Data-Analysis-Skills/blob/main/3.Measuring%20Covariance%20and%20Correlation.ipynb)**  
+   *Analyzing relationships between variables using covariance and correlation matrices.*
+
+4. **[Combinations and Permutations](https://github.com/MeJI3a/Data-Analysis-Skills/blob/main/4.Combinations,%20and%20Permutations.ipynb)**  
+   *Exploring combinatorial mathematics to analyze datasets.*
+
+5. **[Calculating Probabilities](https://github.com/MeJI3a/Data-Analysis-Skills/blob/main/5.Calculating%20Probabilities.ipynb)**  
+   *Applying probability principles to calculate and interpret real-world scenarios.*
+
+6. **[Combination Analysis](https://github.com/MeJI3a/Data-Analysis-Skills/blob/main/6.Combination.ipynb)**  
+   *Generating and analyzing combinations of dataset features.*
+
+7. **[Bayesian Analysis](https://github.com/MeJI3a/Data-Analysis-Skills/blob/main/7.Bayesian%20Analysis.ipynb)**  
+   *Using Bayesian methods for probabilistic predictions and credible intervals.*
+
+8. **[Hypothesis Testing (T-tests, ANOVA)](https://github.com/MeJI3a/Data-Analysis-Skills/blob/main/8.Hypothesis%20Testing%20(T-tests%2C%20ANOVA).ipynb)**  
+   *Performing hypothesis testing to compare group means.*
+
+9. **[Linear and Multiple Regression](https://github.com/MeJI3a/Data-Analysis-Skills/blob/main/9.Linear%20and%20Multiple%20Regression.ipynb)**  
+   *Building and validating regression models to predict outcomes.*
+
+10. **[Normality Tests](https://github.com/MeJI3a/Data-Analysis-Skills/blob/main/10.Normality%20Tests.ipynb)**  
+    *Testing datasets for normal distribution assumptions.*
+
+11. **[Working with Distributions](https://github.com/MeJI3a/Data-Analysis-Skills/blob/main/11.Working%20with%20Distributions.ipynb)**  
+    *Simulating and analyzing different probability distributions.*
+
+---
+
+This portfolio demonstrates my journey in mastering data analysis techniques. Thank you for visiting, and feel free to explore the projects above!
+
+
 
 ---
 
