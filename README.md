@@ -1,4 +1,4 @@
-# **Data Analysis Skills Portfolio**
+# **Foundations of Statistical Analysis in Python**
 
 Welcome to my portfolio of data analysis projects! This repository contains a collection of projects that demonstrate my technical skills and techniques in data analysis using Python. Each project focuses on mastering specific methods, tools, or statistical approaches.
 
