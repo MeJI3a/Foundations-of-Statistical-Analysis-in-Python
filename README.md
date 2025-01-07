@@ -148,14 +148,3 @@ This portfolio demonstrates my journey in mastering data analysis techniques. Th
      - **Operations Management**: Modeling wait times and service levels using exponential distributions.
      - **Traffic Analysis**: Using Poisson distributions to model the number of customers arriving at a store.
 
----
-
-## Next Steps
-
-This portfolio represents my foundational skills in data analysis. In the future, I plan to expand it by including:
-
-- **Monte Carlo Simulations**
-- **Time Series Analysis**
-- **Advanced projects integrating SQL and Power BI**
-
-Thank you for viewing my portfolio!
